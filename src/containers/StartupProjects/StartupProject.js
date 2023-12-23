@@ -44,7 +44,10 @@ export default function StartupProject() {
                   }
                 >
                   {project.image ? (
-                    <div className="project-image">
+                    <div
+                      className="project-image "
+                      style={{backgroundColor: "white "}}
+                    >
                       <img
                         src={project.image}
                         alt={project.projectName}
