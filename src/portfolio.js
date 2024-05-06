@@ -139,30 +139,21 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "MERN|Web3 Developer",
+      company: "E-Shepherds Technologies Pvt Ltd",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      date: "May 2023 – Present",
+      desc: "MERN/Web3 Developer at E-Shepherds Technologies, specializing in full-stack DApps, smart contract integration, and blockchain-based solutions",
+     
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Front-End|Web3 Developer",
+      company: "Webloop",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "May 2020 – April 2023",
+      desc: "Accomplished Frontend and Web3 Developer at Webloop Company, adept in smart contract integration, wallet connectivity, and deploying KYC protocols. Spearheaded and delivered secure and user-centric DApp solutions, leading to enhanced customer engagement and compliance adherence."
     },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
+    
   ]
 };
 
